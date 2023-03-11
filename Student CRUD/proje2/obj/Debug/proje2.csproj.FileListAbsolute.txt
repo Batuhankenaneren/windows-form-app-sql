@@ -1,0 +1,12 @@
+C:\Users\batuh\Desktop\visual 2\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\batuh\Desktop\visual 2\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\batuh\Desktop\visual 2\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\batuh\Desktop\visual 2\proje2\proje2\obj\Debug\proje2.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\visual 2\proje2\proje2\obj\Debug\proje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\batuh\Desktop\visual 2\proje2\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\batuh\Desktop\visual 2\proje2\proje2\obj\Debug\proje2.Form2.resources
+C:\Users\batuh\Desktop\visual 2\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\batuh\Desktop\visual 2\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\batuh\Desktop\visual 2\proje2\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\visual 2\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\batuh\Desktop\visual 2\proje2\proje2\obj\Debug\proje2.pdb
